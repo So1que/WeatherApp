@@ -19,7 +19,8 @@
     "baseUrl": ".",
     "skipLibCheck": true,
     "paths": {
-      "*": ["./src/*"]
+      "*": ["./src/libs/*"],
+      "@ui-components": ["./src/libs/ui-components/"]
     }
   },
   "exclude": ["node-modules", "dist"]

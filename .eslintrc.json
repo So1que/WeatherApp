@@ -18,6 +18,14 @@
     "react/jsx-filename-extension": "off",
     "import/extensions": "off",
     "import/prefer-default-export": "off",
-    "react/function-component-definition": "off"
+    "react/function-component-definition": "off",
+    "@typescript-eslint/consistent-type-definitions": "off",
+    "react/require-default-props": "off",
+    "@typescript-eslint/strict-boolean-expressions": "off",
+    "max-len": ["warn", { "code": 120 }],
+    "@typescript-eslint/member-delimiter-style": "off",
+    "operator-linebreak": "off",
+    "implicit-arrow-linebreak": "off",
+    "@typescript-eslint/indent": "off"
   }
 }

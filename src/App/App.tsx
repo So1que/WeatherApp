@@ -1,4 +1,4 @@
 import React from "react"
-import * as Styled from "./styled"
+import { HomePage } from "../libs/pages"
 
-export const App: React.FC = () => <Styled.App>WeatherApp</Styled.App>
+export const App: React.FC = () => <HomePage />
